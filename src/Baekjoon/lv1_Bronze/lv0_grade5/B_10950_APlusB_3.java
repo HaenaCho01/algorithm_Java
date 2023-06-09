@@ -2,7 +2,7 @@ package Baekjoon.lv1_Bronze.lv0_grade5;
 
 import java.util.Scanner;
 
-public class B10950APlusB3 {
+public class B_10950_APlusB_3 {
     public static void main( String[] args ) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt(); // 테스트 개수 입력
