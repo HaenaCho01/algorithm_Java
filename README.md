@@ -1,5 +1,5 @@
 # algorithm_Java
-Java 언어 알고리즘 프로그래머스, 백준 문제 풀이
+(Java) 알고리즘 프로그래머스, 백준 문제 풀이
 
 # Programmers
 ### Lv.0
