@@ -4,15 +4,13 @@ import java.util.Scanner;
 
 public class Sol5_문자열_겹쳐쓰기 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String my_string = sc.nextLine();
-        String overwrite_string = sc.nextLine();
-        int s = sc.nextInt();
-
-        Sol5_문자열_겹쳐쓰기 sol = new Sol5_문자열_겹쳐쓰기();
-        System.out.println(sol.solution(my_string, overwrite_string, s));
+        Solution sol = new Solution();
+        System.out.println(sol.solution("He11oWor1d", "lloWorl", 2));
+        System.out.println(sol.solution("Program29b8UYP", "merS123", 7));
     }
+}
 
+class Solution {
     public String solution(String my_string, String overwrite_string, int s) {
         StringBuilder sb = new StringBuilder(my_string);
         for (int i = 0; i < overwrite_string.length(); i++) {
