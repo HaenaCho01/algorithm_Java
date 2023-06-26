@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class P_제일_작은_수_제거하기 {
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        SolutionEliminateMin sol = new SolutionEliminateMin();
         // 테스트 케이스 출력
         int[] a = {4,3,2,1};
         int[] b = {10};
@@ -14,7 +14,7 @@ public class P_제일_작은_수_제거하기 {
     }
 }
 
-class Solution {
+class SolutionEliminateMin {
     public int[] solution(int[] arr) {
         int[] answer = new int[arr.length-1];
 
