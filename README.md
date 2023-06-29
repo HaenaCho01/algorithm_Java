@@ -6,7 +6,8 @@
 ## Programmers
 #### Lv.0 
 ##### <코딩 기초 트레이닝> (124문제)
-![230630 코딩 기초 트레이닝 마스터.png](..%2F230630%20%C4%DA%B5%F9%20%B1%E2%C3%CA%20%C6%AE%B7%B9%C0%CC%B4%D7%20%B8%B6%BD%BA%C5%CD.png)
+![230630 코딩 기초 트레이닝 마스터](https://github.com/HaenaCho01/algorithm_Java/assets/131599243/96b48975-8927-47c0-a2e8-5b2977fc8cd1)
+
 </br>
 
 ##### <코딩테스트 입문> (8문제)
