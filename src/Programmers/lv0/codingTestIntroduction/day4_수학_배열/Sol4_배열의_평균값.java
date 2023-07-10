@@ -1,4 +1,4 @@
-package Programmers.lv0.codingTestIntroduction.day4;
+package Programmers.lv0.codingTestIntroduction.day4_수학_배열;
 
 public class Sol4_배열의_평균값 {
 	public double solution(int[] numbers) {

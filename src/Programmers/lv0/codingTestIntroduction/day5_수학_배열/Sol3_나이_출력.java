@@ -1,4 +1,4 @@
-package Programmers.lv0.codingTestIntroduction.day5;
+package Programmers.lv0.codingTestIntroduction.day5_수학_배열;
 
 public class Sol3_나이_출력 {
 	public int solution(int age) {

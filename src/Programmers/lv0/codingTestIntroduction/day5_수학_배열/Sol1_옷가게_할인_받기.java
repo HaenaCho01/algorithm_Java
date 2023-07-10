@@ -1,4 +1,4 @@
-package Programmers.lv0.codingTestIntroduction.day5;
+package Programmers.lv0.codingTestIntroduction.day5_수학_배열;
 
 public class Sol1_옷가게_할인_받기 {
 	public int solution(int price) {

@@ -1,4 +1,4 @@
-package Programmers.lv0.codingTestIntroduction.day4;
+package Programmers.lv0.codingTestIntroduction.day4_수학_배열;
 
 public class Sol1_피자_나눠_먹기_1 {
 	public int solution(int n) {

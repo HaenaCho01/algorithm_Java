@@ -1,4 +1,4 @@
-package Programmers.lv0.codingTestIntroduction.day5;
+package Programmers.lv0.codingTestIntroduction.day5_수학_배열;
 
 import java.util.Arrays;
 
