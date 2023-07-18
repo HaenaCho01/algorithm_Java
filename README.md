@@ -7,7 +7,7 @@ Java 알고리즘 프로그래머스, 백준 문제 풀이
 ## Programmers
 #### Lv.0 
 ##### 코딩 기초 트레이닝 (124문제)
-![230630 코딩 기초 트레이닝 마스터](https://github.com/HaenaCho01/algorithm_Java/assets/131599243/96b48975-8927-47c0-a2e8-5b2977fc8cd1)
+![230630 코딩 기초 트레이닝 마스터](https://github.com/HaenaCho01/algorithm_Java/assets/131599243/03c89b6e-e3f8-48d4-96c6-18d0d8a30c8a)
 
 
 
