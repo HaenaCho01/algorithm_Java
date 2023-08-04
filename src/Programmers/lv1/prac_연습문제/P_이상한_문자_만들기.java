@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.prac_연습문제;
 
 public class P_이상한_문자_만들기 {
 	public static void main(String[] args) {

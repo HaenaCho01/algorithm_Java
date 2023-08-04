@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.kakao_카카오기출;
 
 public class P_성격_유형_검사하기 {
 	public static void main(String[] args) {

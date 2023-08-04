@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.prac_연습문제;
 
 import java.util.Arrays;
 

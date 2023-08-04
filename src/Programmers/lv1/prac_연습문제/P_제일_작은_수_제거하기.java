@@ -1,5 +1,5 @@
 // lv.1 제일 작은 수 제거하기
-package Programmers.lv1;
+package Programmers.lv1.prac_연습문제;
 
 import java.util.Arrays;
 

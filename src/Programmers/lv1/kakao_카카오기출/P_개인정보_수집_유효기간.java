@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.kakao_카카오기출;
 
 import java.util.*;
 

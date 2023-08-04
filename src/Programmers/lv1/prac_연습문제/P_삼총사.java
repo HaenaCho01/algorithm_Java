@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.prac_연습문제;
 
 public class P_삼총사 {
     public int solution(int[] number) {

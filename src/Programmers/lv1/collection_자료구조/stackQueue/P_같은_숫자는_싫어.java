@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.collection_자료구조.stackQueue;
 
 import java.util.ArrayList;
 import java.util.Arrays;

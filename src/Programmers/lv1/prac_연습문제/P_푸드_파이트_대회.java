@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.prac_연습문제;
 
 public class P_푸드_파이트_대회 {
 	public String solution(int[] food) {

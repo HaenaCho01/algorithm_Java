@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.prac_연습문제;
 
 // lv.1 가운데 글자 가져오기
 

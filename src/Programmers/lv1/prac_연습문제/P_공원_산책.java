@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.prac_연습문제;
 
 public class P_공원_산책 {
     public static void main(String[] args) {

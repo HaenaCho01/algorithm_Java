@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.challenge_월간코드챌린지;
 
 public class P_약수의_개수와_덧셈 {
     public static void main(String[] args) {

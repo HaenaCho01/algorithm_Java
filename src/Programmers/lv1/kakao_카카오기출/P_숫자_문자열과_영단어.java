@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.kakao_카카오기출;
 
 public class P_숫자_문자열과_영단어 {
 	public int solution(String s) {

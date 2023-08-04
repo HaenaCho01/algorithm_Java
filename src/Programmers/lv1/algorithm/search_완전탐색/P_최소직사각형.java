@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.algorithm.search_완전탐색;
 
 public class P_최소직사각형 {
 	public int solution(int[][] sizes) {

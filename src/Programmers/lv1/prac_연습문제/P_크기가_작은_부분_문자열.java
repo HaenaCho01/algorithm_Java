@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.prac_연습문제;
 
 public class P_크기가_작은_부분_문자열 {
 	public int solution(String t, String p) {

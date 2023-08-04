@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.SummerWinterCoding;
 
 import java.util.Arrays;
 

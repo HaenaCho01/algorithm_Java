@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package Programmers.lv1.challenge_월간코드챌린지;
 
 import java.util.Arrays;
 import java.util.HashSet;
