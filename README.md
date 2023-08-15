@@ -7,12 +7,22 @@ Java 알고리즘 프로그래머스, 백준 문제 풀이
 ## Programmers
 #### Lv.0 
 ##### 코딩 기초 트레이닝 (124문제)
+<details>
+ <summary>자세히 보기</summary>
+ 
 ![230630 코딩 기초 트레이닝 마스터](https://github.com/HaenaCho01/algorithm_Java/assets/131599243/03c89b6e-e3f8-48d4-96c6-18d0d8a30c8a)
+
+</details>
 
 
 
 ##### 코딩테스트 입문 (100문제)
+<details>
+ <summary>자세히 보기</summary>
+ 
 ![230804 프로그래머스 코딩테스트 입문 및 lv 0 마스터](https://github.com/HaenaCho01/algorithm_Java/assets/131599243/d33e595e-2b52-4a9b-8d3a-14c081591fa4)
+
+</details>
 
 </br></br>
 
