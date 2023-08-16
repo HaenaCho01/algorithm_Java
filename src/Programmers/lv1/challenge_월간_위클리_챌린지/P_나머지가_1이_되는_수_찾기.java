@@ -1,4 +1,4 @@
-package Programmers.lv1.challenge_월간코드챌린지;
+package Programmers.lv1.challenge_월간_위클리_챌린지;
 
 public class P_나머지가_1이_되는_수_찾기 {
 	public int solution(int n) {
