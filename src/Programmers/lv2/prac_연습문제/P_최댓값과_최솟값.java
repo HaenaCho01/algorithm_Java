@@ -1,4 +1,4 @@
-package Programmers.lv2;
+package Programmers.lv2.prac_연습문제;
 
 public class P_최댓값과_최솟값 {
     // 35분 소요

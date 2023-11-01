@@ -1,5 +1,5 @@
 // lv.2 JadenCase 문자열 만들기
-package Programmers.lv2;
+package Programmers.lv2.prac_연습문제;
 
 public class P_JadenCase_문자열_만들기 {
     public static void main(String[] args) {
