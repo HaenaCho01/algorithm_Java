@@ -1,0 +1,58 @@
+package Programmers.lv1.prac_연습문제;
+
+public class P_기사단원의_무기 {
+    public int solution(int number, int limit, int power) {
+        int answer = 0;
+        
+        for(int i = 1; i <= number; i++) {
+            // 약수 개수 구하는 메소드
+            int cntDivisor = 0;
+            // 약수의 개수를 전체로 구해서 돌리면 시간 초과로 실패하므로 주의!
+            for(int j = 1; j <= Math.sqrt(i); j++) {
+                if(i % j == 0) cntDivisor += 2;
+                if(j * j == Math.sqrt(i) * Math.sqrt(i)) cntDivisor--;
+            }
+            // 제한 수치 체크 후 더하기
+            if (cntDivisor > limit) answer += power;
+            else answer += cntDivisor;
+        }
+        
+        return answer;
+    }
+
+/*
+테스트 1 〉	통과 (11.53ms, 74.6MB)
+테스트 2 〉	통과 (7.22ms, 69.3MB)
+테스트 3 〉	통과 (1.70ms, 75.1MB)
+테스트 4 〉	통과 (4.62ms, 74.7MB)
+테스트 5 〉	통과 (1.11ms, 76.1MB)
+테스트 6 〉	통과 (11.93ms, 75.2MB)
+테스트 7 〉	통과 (6.41ms, 80MB)
+테스트 8 〉	통과 (2.48ms, 76.3MB)
+테스트 9 〉	통과 (10.34ms, 78.6MB)
+테스트 10 〉	통과 (1.98ms, 76.6MB)
+테스트 11 〉	통과 (148.03ms, 77.5MB)
+테스트 12 〉	통과 (165.22ms, 79.2MB)
+테스트 13 〉	통과 (156.85ms, 89.8MB)
+테스트 14 〉	통과 (171.57ms, 87.4MB)
+테스트 15 〉	통과 (176.88ms, 77.2MB)
+테스트 16 〉	통과 (167.99ms, 85.9MB)
+테스트 17 〉	통과 (0.02ms, 75.2MB)
+테스트 18 〉	통과 (164.47ms, 91.8MB)
+테스트 19 〉	통과 (3.57ms, 78.3MB)
+테스트 20 〉	통과 (3.54ms, 73MB)
+테스트 21 〉	통과 (0.02ms, 76.4MB)
+테스트 22 〉	통과 (0.03ms, 72.8MB)
+테스트 23 〉	통과 (0.02ms, 77.5MB)
+테스트 24 〉	통과 (176.16ms, 91.1MB)
+테스트 25 〉	통과 (179.22ms, 91.7MB)
+테스트 26 〉	통과 (1.02ms, 73.8MB)
+테스트 27 〉	통과 (0.93ms, 77.5MB)
+ */
+
+    public static void main(String[] args) {
+        P_기사단원의_무기 sol = new P_기사단원의_무기();
+        System.out.println(sol.solution(5, 3, 2));
+        System.out.println(sol.solution(10, 3, 2));
+    }
+}
