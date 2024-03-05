@@ -1,4 +1,4 @@
-package DoItAlgorithmIntroduction.chap01;
+package DoItAlgorithmIntroduction.chap01.part1algorithm;
 // 세 값의 대소 관계인 13가지 조합의 중앙값을 출력하는 프로그램을 작성하세요.
 public class Practice04 {
     static int med3(int a, int b, int c) {

@@ -1,4 +1,4 @@
-package DoItAlgorithmIntroduction.chap01;
+package DoItAlgorithmIntroduction.chap01.part1algorithm;
 //3개의 정숫값 가운데 최댓값을 구하여 출력
 
 public class Max3Method {

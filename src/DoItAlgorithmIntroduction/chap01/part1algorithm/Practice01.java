@@ -1,4 +1,4 @@
-package DoItAlgorithmIntroduction.chap01;
+package DoItAlgorithmIntroduction.chap01.part1algorithm;
 // 네 값의 최댓값을 구하는 max4 메서드를 작성하세요.
 
 public class Practice01 {

@@ -1,4 +1,4 @@
-package DoItAlgorithmIntroduction.chap01;
+package DoItAlgorithmIntroduction.chap01.part1algorithm;
 //세 값의 최솟값을 구하는 min3 메서드를 작성하세요.
 
 public class Practice02 {

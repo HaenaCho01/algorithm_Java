@@ -1,4 +1,4 @@
-package DoItAlgorithmIntroduction.chap01;
+package DoItAlgorithmIntroduction.chap01.part1algorithm;
 // 중앙값을 구하는 다음의 메소드가 Median 클래스의 med3 메서드에 비해 효율이 떨어지는 이유?
 /*
   처음 if 문의 판단

@@ -1,4 +1,4 @@
-package DoItAlgorithmIntroduction.chap01;
+package DoItAlgorithmIntroduction.chap01.part1algorithm;
 //3개의 정숫값을 입력하고 최댓값을 구하여 출력
 
 import java.util.Scanner;
